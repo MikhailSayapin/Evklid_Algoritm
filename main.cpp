@@ -7,9 +7,9 @@ using namespace std;
 int main()
 {
     int a, b, c=1;
-    cout << "Enter_1st\n";
+    cout << "Enter 1st\n";
     cin >> a;
-    cout << "\nEnter_2nd\n";
+    cout << "\nEnter 2nd\n";
     cin >> b;
     if (b>a)
     {
