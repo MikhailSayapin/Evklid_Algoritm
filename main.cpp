@@ -1,7 +1,7 @@
 #include <iostream>
 #include <cmath>
 #include <stdlib.h>
-
+//knnk
 using namespace std;
 
 int main()
